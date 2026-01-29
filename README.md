@@ -1,14 +1,8 @@
 \# Which Anime Character Are You?
 
-
-
 \## Project Description
 
-
-
 This is a fun, interactive web project that lets users find out which anime character they are! Users can pick a number from 1 to 5, and the page will display the corresponding character's name and image.  
-
-
 
 This project demonstrates the following concepts learned in the Git/GitHub workshop:  
 
@@ -28,17 +22,9 @@ This project demonstrates the following concepts learned in the Git/GitHub works
 
 
 
-The project is minimal but fully functional, perfect for demonstrating Git workflow skills and simple web interactivity.
-
-
-
----
-
-
+The project is minimal but fully functional.
 
 \## Characters
-
-
 
 | Number | Character |
 
@@ -54,19 +40,10 @@ The project is minimal but fully functional, perfect for demonstrating Git workf
 
 | 5      | Denji |
 
-
-
 ---
-
-
-
 \## Setup Instructions
 
-
-
 To run this project locally:  
-
-
 
 1\. Clone the repository:  
 
