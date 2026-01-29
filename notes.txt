@@ -1,0 +1,4 @@
+These are some study notes for the Git workshop.
+
+
+Apples are red, Grapes are purple, yap yap yap 
